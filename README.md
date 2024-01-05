@@ -40,7 +40,9 @@ This is a simple chat application built using React Native for the frontend and 
 # Install frontend dependencies
 cd frontend
 npm install
+cd ios
+pod install
 
 # Install backend dependencies
-cd ../backend
+cd ../api
 npm install
